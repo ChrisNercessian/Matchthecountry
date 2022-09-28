@@ -27,7 +27,7 @@ $(document).ready(function () {
     function hearts() {
         $("h3 span").html('')
         for (var i = 0; i < lives; i++) {
-            $("h3 span").append("<img class='hearts' src= 'Images/heart.png'>")
+            $("h3 span").append("<img class='hearts' src= 'heart.png'>")
         }
     }
     hearts()
@@ -53,7 +53,7 @@ $(document).ready(function () {
                 let index = images[i].indexOf('.')
                 let data = images[i].slice(0, index)
                 $(` <div class = "country" data-number = "${data}" >
-            <img src = "Images/${images[i]}" >
+            <img src = "${images[i]}" >
           </div>`).appendTo("#countries").draggable({
                     "revert": true
                 })
