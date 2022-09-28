@@ -8,11 +8,11 @@ $(document).ready(function () {
         ["16.png", "17.png", "18.png", "19.png"]
     ]
 
-    var c_n_level = [
-        ["Canada", "United-States", "England", "Australia"],
-        ["France", "Italy", "Japan", "Ukraine"],
-        ["Turkey", "Greece", "China", "India"],
-        ["Spain", "Germany", "Netherlands", "Portugal"],
+        var c_n_level = [
+        ["Vietnam", "South Korea", "North Korea", "Philipine"],
+        ["Poland", "Belarus", "Luxembourg", "Belgium"],
+        ["Angola", "Zimbabwe", "Zambia", "Chad"],
+        ["Cube", "Dominica Republic", "Haiti", "Costa Rica"],
         ["Colombia", "Ecuador", "Argentina", "Chile"]
     ]
 
