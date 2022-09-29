@@ -12,7 +12,7 @@ $(document).ready(function () {
         ["Vietnam", "South Korea", "North Korea", "Philipine"],
         ["Poland", "Belarus", "Luxembourg", "Belgium"],
         ["Angola", "Zimbabwe", "Zambia", "Chad"],
-        ["Cuba", "Dominica Republic", "Haiti", "Costa Rica"],
+        ["Cuba", "Dominican Republic", "Haiti", "Costa Rica"],
         ["Colombia", "Ecuador", "Argentina", "Chile"]
     ]
 
